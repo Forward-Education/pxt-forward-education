@@ -7,7 +7,7 @@
         "core": "*",
         "jacdac": "github:microsoft/pxt-jacdac",
         "jacdac-button": "github:microsoft/pxt-jacdac/button",
-        "fwd-common": "github:Forward-Education/pxt-forward-education/fwd-common"
+        "fwd-edu-common": "github:Forward-Education/pxt-forward-education/fwd-common"
     },
     "files": [
         "client.ts",
@@ -15,7 +15,7 @@
         "_locales/es/fwd-edu-touch-strings.json",
         "_locales/fr/fwd-edu-touch-jsdoc-strings.json",
         "_locales/fr/fwd-edu-touch-strings.json"
-    ],
+    ],  
     "supportedTargets": [
         "microbit"
     ]
