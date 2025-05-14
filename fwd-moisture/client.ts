@@ -1,4 +1,4 @@
-namespace fwdSensors {
+namespace fwd {
 
   //% fixedInstances
   export class FwdSoilMoistureClient extends modules.SoilMoistureClient {

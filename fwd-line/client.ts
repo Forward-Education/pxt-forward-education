@@ -1,4 +1,4 @@
-namespace fwdSensors {
+namespace fwd {
 
   export const enum LineSensorState {
     //% block="○"

@@ -7,7 +7,8 @@
         "core": "*",
         "jacdac": "github:microsoft/pxt-jacdac",
         "jacdac-servo": "github:microsoft/pxt-jacdac/servo",
-        "jacdac-relay": "github:microsoft/pxt-jacdac/relay"
+        "jacdac-relay": "github:microsoft/pxt-jacdac/relay",
+        "fwd-common": "github:Forward-Education/pxt-forward-education/fwd-common"
     },
     "files": [
         "client.ts",

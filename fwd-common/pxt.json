@@ -1,14 +1,13 @@
 {
     "name": "fwd-edu-common",
-    "version": "1.50.1",
+    "version": "2.0.0",
     "description": "FWD Edu Climate Action Kit Gen. 2 Shared resources",
     "license": "MIT",
     "dependencies": {
         "core": "*"
     },
     "files": [
-        "motors.ts",
-        "sensors.ts",
+        "common.ts",
         "_locales/es/fwd-edu-common-jsdoc-strings.json",
         "_locales/es/fwd-edu-common-strings.json",
         "_locales/fr/fwd-edu-common-jsdoc-strings.json",
