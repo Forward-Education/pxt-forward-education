@@ -6,14 +6,14 @@
     "dependencies": {
         "core": "*",
         "jacdac": "github:microsoft/pxt-jacdac#v1.9.32",
-        "fwd-edu-breakout": "github:Forward-Education/pxt-forward-education/fwd-breakout#cd9e5a002cefedd70052d93ea2e0e0e029c74cea",
-        "fwd-edu-dial": "github:Forward-Education/pxt-forward-education/fwd-dial#cd9e5a002cefedd70052d93ea2e0e0e029c74cea",
-        "fwd-edu-led": "github:Forward-Education/pxt-forward-education/fwd-led#cd9e5a002cefedd70052d93ea2e0e0e029c74cea",
-        "fwd-edu-line": "github:Forward-Education/pxt-forward-education/fwd-line#cd9e5a002cefedd70052d93ea2e0e0e029c74cea",
-        "fwd-edu-moisture": "github:Forward-Education/pxt-forward-education/fwd-moisture#cd9e5a002cefedd70052d93ea2e0e0e029c74cea",
-        "fwd-edu-solar": "github:Forward-Education/pxt-forward-education/fwd-solar#cd9e5a002cefedd70052d93ea2e0e0e029c74cea",
-        "fwd-edu-sonar": "github:Forward-Education/pxt-forward-education/fwd-sonar#cd9e5a002cefedd70052d93ea2e0e0e029c74cea",
-        "fwd-edu-touch": "github:Forward-Education/pxt-forward-education/fwd-touch#cd9e5a002cefedd70052d93ea2e0e0e029c74cea"
+        "fwd-edu-breakout": "github:Forward-Education/pxt-forward-education/fwd-breakout#7334aa2883a84e378e911c8d78a54fac1e422941",
+        "fwd-edu-dial": "github:Forward-Education/pxt-forward-education/fwd-dial#7334aa2883a84e378e911c8d78a54fac1e422941",
+        "fwd-edu-led": "github:Forward-Education/pxt-forward-education/fwd-led#7334aa2883a84e378e911c8d78a54fac1e422941",
+        "fwd-edu-line": "github:Forward-Education/pxt-forward-education/fwd-line#7334aa2883a84e378e911c8d78a54fac1e422941",
+        "fwd-edu-moisture": "github:Forward-Education/pxt-forward-education/fwd-moisture#7334aa2883a84e378e911c8d78a54fac1e422941",
+        "fwd-edu-solar": "github:Forward-Education/pxt-forward-education/fwd-solar#7334aa2883a84e378e911c8d78a54fac1e422941",
+        "fwd-edu-sonar": "github:Forward-Education/pxt-forward-education/fwd-sonar#7334aa2883a84e378e911c8d78a54fac1e422941",
+        "fwd-edu-touch": "github:Forward-Education/pxt-forward-education/fwd-touch#7334aa2883a84e378e911c8d78a54fac1e422941"
     },
     "files": [
         
