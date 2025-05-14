@@ -6,9 +6,9 @@
     "dependencies": {
         "core": "*",
         "jacdac": "github:microsoft/pxt-jacdac#v1.9.32",
-        "fwd-edu-breakout": "github:Forward-Education/pxt-forward-education/fwd-breakout#fd3e1a62457d4ca9cd522aecadcad969ead12e11",
-        "fwd-edu-dial": "github:Forward-Education/pxt-forward-education/fwd-dial#fd3e1a62457d4ca9cd522aecadcad969ead12e11",
-        "fwd-edu-led": "github:Forward-Education/pxt-forward-education/fwd-led#fd3e1a62457d4ca9cd522aecadcad969ead12e11"
+        "fwd-edu-breakout": "github:Forward-Education/pxt-forward-education/fwd-breakout#b731e7bc626472c0977231887a58d79b6ff71042",
+        "fwd-edu-dial": "github:Forward-Education/pxt-forward-education/fwd-dial#b731e7bc626472c0977231887a58d79b6ff71042",
+        "fwd-edu-led": "github:Forward-Education/pxt-forward-education/fwd-led#b731e7bc626472c0977231887a58d79b6ff71042"
     },
     "files": [
         
