@@ -8,7 +8,7 @@
         "jacdac": "github:microsoft/pxt-jacdac",
         "jacdac-rotary-encoder": "github:microsoft/pxt-jacdac/rotary-encoder",
         "jacdac-button": "github:microsoft/pxt-jacdac/button",
-        "fwd-common": "github:Forward-Education/pxt-forward-education/fwd-common"
+        "fwd-edu-common": "github:Forward-Education/pxt-forward-education/fwd-common"
     },
     "files": [
         "client.ts",

@@ -7,7 +7,7 @@
         "core": "*",
         "jacdac": "github:microsoft/pxt-jacdac",
         "jacdac-soil-moisture": "github:microsoft/pxt-jacdac/soil-moisture",
-        "fwd-common": "github:Forward-Education/pxt-forward-education/fwd-common"
+        "fwd-edu-common": "github:Forward-Education/pxt-forward-education/fwd-common"
     },
     "files": [
         "client.ts",

@@ -7,7 +7,7 @@
         "core": "*",
         "jacdac": "github:microsoft/pxt-jacdac",
         "jacdac-led": "github:microsoft/pxt-jacdac/led",
-        "fwd-common": "github:Forward-Education/pxt-forward-education/fwd-common"
+        "fwd-edu-common": "github:Forward-Education/pxt-forward-education/fwd-common"
     },
     "files": [
         "client.ts",
