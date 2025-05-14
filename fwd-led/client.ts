@@ -1,4 +1,4 @@
-namespace fwdSensors {
+namespace fwd {
 
   //% group="LED Lights"
   //% blockId=fwd_led_names
